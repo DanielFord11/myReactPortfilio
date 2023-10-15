@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ReactPortfolio/static/css/main.2dc60e8d.css",
-    "main.js": "/ReactPortfolio/static/js/main.c6993f64.js",
-    "static/js/496.182e14f9.chunk.js": "/ReactPortfolio/static/js/496.182e14f9.chunk.js",
-    "static/media/Profile.png": "/ReactPortfolio/static/media/Profile.938057189b2d9f460ace.png",
-    "static/media/AboutMe.png": "/ReactPortfolio/static/media/AboutMe.773c13f3c285fcc712ee.png",
-    "static/media/ghostWriter.png": "/ReactPortfolio/static/media/ghostWriter.3f39633c970f9dad198a.png",
-    "static/media/UFOs.png": "/ReactPortfolio/static/media/UFOs.e2ef65722b7f4c47a97a.png",
-    "static/media/Health.png": "/ReactPortfolio/static/media/Health.45464eee62fd35464a1a.png",
-    "static/media/Refugee.png": "/ReactPortfolio/static/media/Refugee.5aba33a5512770e3481e.png",
-    "static/media/college.png": "/ReactPortfolio/static/media/college.56f0d68448680480c53c.png",
-    "index.html": "/ReactPortfolio/index.html",
-    "main.2dc60e8d.css.map": "/ReactPortfolio/static/css/main.2dc60e8d.css.map",
-    "main.c6993f64.js.map": "/ReactPortfolio/static/js/main.c6993f64.js.map",
-    "496.182e14f9.chunk.js.map": "/ReactPortfolio/static/js/496.182e14f9.chunk.js.map"
+    "main.css": "/myReactPortfolio/static/css/main.2dc60e8d.css",
+    "main.js": "/myReactPortfolio/static/js/main.cc12b954.js",
+    "static/js/496.182e14f9.chunk.js": "/myReactPortfolio/static/js/496.182e14f9.chunk.js",
+    "static/media/Profile.png": "/myReactPortfolio/static/media/Profile.938057189b2d9f460ace.png",
+    "static/media/AboutMe.png": "/myReactPortfolio/static/media/AboutMe.773c13f3c285fcc712ee.png",
+    "static/media/ghostWriter.png": "/myReactPortfolio/static/media/ghostWriter.3f39633c970f9dad198a.png",
+    "static/media/UFOs.png": "/myReactPortfolio/static/media/UFOs.e2ef65722b7f4c47a97a.png",
+    "static/media/Health.png": "/myReactPortfolio/static/media/Health.45464eee62fd35464a1a.png",
+    "static/media/Refugee.png": "/myReactPortfolio/static/media/Refugee.5aba33a5512770e3481e.png",
+    "static/media/college.png": "/myReactPortfolio/static/media/college.56f0d68448680480c53c.png",
+    "index.html": "/myReactPortfolio/index.html",
+    "main.2dc60e8d.css.map": "/myReactPortfolio/static/css/main.2dc60e8d.css.map",
+    "main.cc12b954.js.map": "/myReactPortfolio/static/js/main.cc12b954.js.map",
+    "496.182e14f9.chunk.js.map": "/myReactPortfolio/static/js/496.182e14f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2dc60e8d.css",
-    "static/js/main.c6993f64.js"
+    "static/js/main.cc12b954.js"
   ]
 }
