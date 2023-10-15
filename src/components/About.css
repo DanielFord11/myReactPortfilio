@@ -1,0 +1,10 @@
+.Center_Content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Adjust this to your desired height */
+  }
+  
+  .About_inner {
+    text-align: center;
+  }
